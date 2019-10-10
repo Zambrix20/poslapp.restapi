@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Juf4klPh3dA&9LP3fis!",
+    "database": "poslapp_db",
+    "host": "35.225.249.132",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Juf4klPh3dA&9LP3fis!",
+    "database": "poslapptest_db",
+    "host": "35.225.249.132",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Juf4klPh3dA&9LP3fis!",
+    "database": "poslapp_db",
+    "host": "35.225.249.132",
+    "dialect": "postgres"
+  }
+}
